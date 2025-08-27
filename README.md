@@ -1,2 +1,3 @@
 # Cybersecurity-University
 This is my repository of my university 
+This is my repository of my university Welcome to my reporsitory or Portfoilio, My name is Jophiel Arevalo I'm a Cybersecurity Master's student with a background in international business and hands-on experience in both financial and technical domains. Passionate about Web 3.0 and actively engaged in blockchain research. Adaptable, quick to learn new concepts, and driven to explore emerging technologies. The following reposity explains my experience trough my masters degree, I have detailed all the work i have done in all the trimesters. please refer to any folder to see what i have done, all the assigments and all the knowledge i have gone trough this jurney.
